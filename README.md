@@ -47,7 +47,7 @@ I’m eager to grow within a collaborative team environment and contribute meani
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub streak" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LODNight&theme=radical" alt="GitHub streak" width="48%"/>
 </p>
 
 ---
